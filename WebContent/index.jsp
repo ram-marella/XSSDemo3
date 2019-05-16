@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="/XSSDemo1/firstServlet" method="get">
+<form action="/XSSDemo3/firstServlet" method="get">
 <h1><u>XSS Demo3 - With static scan</u></h1>
 Name : <input type="text" name="myName"></input>
 <br><br><input type="submit" value="Submit" /> 
